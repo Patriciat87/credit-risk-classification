@@ -2,17 +2,11 @@
 
 ## Overview of the Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+The purpose of this analysis is to train and assess a model for predicting loan risk. The dataset used in this project contains information related to loans, specifically including the status of each loan (whether it is a healthy loan or a high-risk loan). It consists of historical lending data from a peer-to-peer lending platform. It includes variables such as loan amount, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and loan status.
+The stages of the machine learning process I went through were loading, processing and splitting data as well as model training and Model evaluation. 
 
-The purpose of this analysis is to train and assess a model for predicting loan risk. The dataset used in this project consists of historical lending data from a peer-to-peer lending platform. It includes variables such as loan amount, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and loan status.
+The methods used were Logisitic Regression and Evaluation Metrics (Confusion Matrix). 
 
-
-
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
 ## Results
 
